@@ -1,0 +1,14 @@
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.exe
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.deps.json
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.runtimeconfig.json
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.runtimeconfig.dev.json
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.dll
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\bin\Release\netcoreapp3.1\ExerciseB.pdb
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.csproj.AssemblyReference.cache
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.AssemblyInfoInputs.cache
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.AssemblyInfo.cs
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.csproj.CoreCompileInputs.cache
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.dll
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.pdb
+D:\University Coding Stuff\2022-comp1000-exercise5-Jason-Bott\ExerciseB\obj\Release\netcoreapp3.1\ExerciseB.genruntimeconfig.cache

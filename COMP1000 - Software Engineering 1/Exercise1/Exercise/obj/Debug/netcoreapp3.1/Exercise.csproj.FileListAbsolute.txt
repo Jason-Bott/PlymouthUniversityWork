@@ -1,0 +1,14 @@
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.AssemblyReference.cache
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+D:\University Coding Stuff\PlymouthUniversityWork\COMP1000 - Software Engineering 1\Exercise1\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\files\file1.txt
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\files\file2.map
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\files\file3.txt
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.exe
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.deps.json
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.runtimeconfig.json
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.runtimeconfig.dev.json
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.dll
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\bin\Release\netcoreapp3.1\ExerciseB2.pdb
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.csproj.AssemblyReference.cache
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.AssemblyInfoInputs.cache
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.AssemblyInfo.cs
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.csproj.CoreCompileInputs.cache
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.dll
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.pdb
+D:\University Coding Stuff\2022-comp1000-exercise4-Jason-Bott\ExerciseB2\obj\Release\netcoreapp3.1\ExerciseB2.genruntimeconfig.cache
