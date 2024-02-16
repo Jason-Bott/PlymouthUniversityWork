@@ -1,0 +1,10 @@
+John
+7.642
+Adam
+8.433
+Scarlet
+8.869
+Peter
+9.231
+Lvl5
+15.555
