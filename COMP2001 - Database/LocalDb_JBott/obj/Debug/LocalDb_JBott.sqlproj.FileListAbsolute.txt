@@ -1,6 +1,0 @@
-C:\Users\jason\University\COMP2001\LocalDb_JBott\bin\Debug\LocalDb_JBott.dacpac
-C:\Users\jason\University\COMP2001\LocalDb_JBott\obj\Debug\LocalDb_JBott.sqlproj.AssemblyReference.cache
-C:\Users\jason\University\COMP2001\LocalDb_JBott\obj\Debug\LocalDb_JBott.dll
-C:\Users\jason\University\COMP2001\LocalDb_JBott\obj\Debug\LocalDb_JBott.pdb
-C:\Users\jason\University\COMP2001\LocalDb_JBott\bin\Debug\LocalDb_JBott.dll
-C:\Users\jason\University\COMP2001\LocalDb_JBott\bin\Debug\LocalDb_JBott.pdb
