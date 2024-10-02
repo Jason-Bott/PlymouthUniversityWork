@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Profile Details";
+    string[] ProfilesHeaders = new string[] { "ProfileID", "Email", "FirstName", "LastName", "City", "County", "Country", "ProfileImageUrl", "Height", "Weight", "Birthday", "AboutMe", "Language", "Archived" };
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="table">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                @{
+                    foreach (var head in ProfilesHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+            </tr>
+        </thead>
+
+        <tbody>
+            @{
+                if (Model != null)
+                {
+                    foreach (var Data in Model)
+                    {
+                        <tr>
+                            <td>@Data.ProfileID</td>
+                            <td>@Data.Email</td>
+                            <td>@Data.FirstName</td>
+                            <td>@Data.LastName</td>
+                            <td>@Data.City</td>
+                            <td>@Data.County</td>
+                            <td>@Data.Country</td>
+                            <td>@Data.ProfileImageUrl</td>
+                            <td>@Data.Height</td>
+                            <td>@Data.Weight</td>
+                            <td>@Data.Birthday</td>
+                            <td>@Data.AboutMe</td>
+                            <td>@Data.Langauge</td>
+                            <td>@Data.Archived</td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+</div>

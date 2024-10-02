@@ -1,0 +1,13 @@
+22/12/2023 12:06:22	This log contains information about the import operation of the script 'TableCreation.sql' into project 'LocalDb_JBott' on computer 'DESKTOP-IVITA0Q' by user'jason.
+22/12/2023 12:06:22	Started importing file: C:\Users\jason\Downloads\TableCreation.sql 
+22/12/2023 12:06:22	File name C:\Users\jason\Downloads\TableCreation.sql (size: 4227)
+22/12/2023 12:06:22	Parsing import script
+22/12/2023 12:06:22	Total number of batches in script: 2
+22/12/2023 12:06:22	Total number of statements in script: 5
+22/12/2023 12:06:22	The script was successfully imported into the project.
+22/12/2023 12:06:22	Analyzing schema objects...
+22/12/2023 12:06:22	Scanning project for duplicate elements
+22/12/2023 12:06:22	Finished duplicate element processing
+22/12/2023 12:06:22	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+22/12/2023 12:06:22	A summary of the import was saved to the following location: C:\Users\jason\University\COMP2001\LocalDb_JBott\Import Script Logs\TableCreation_sql_20231222120622.log
+22/12/2023 12:06:22	Click Finish to continue...

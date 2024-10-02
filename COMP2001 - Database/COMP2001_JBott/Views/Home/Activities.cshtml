@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Activities";
+    string[] ActivityHeaders = new string[] { "ActivityID", "ActivityName"};
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="table">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                @{
+                    foreach (var head in ActivityHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+            </tr>
+        </thead>
+
+        <tbody>
+            @{
+                if (Model != null)
+                {
+                    foreach (var Data in Model)
+                    {
+                        <tr>
+                            <td>@Data.ActivityID</td>
+                            <td>@Data.ActivityName</td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+</div>
